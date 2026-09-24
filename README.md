@@ -6,5 +6,8 @@
 
 > Repositório com as atividades práticas da disciplina de Sinais e Sistemas.
 
+## [Laboratórios](laboratorios)
+- [Laboratório 1](laboratorios/lab_01)
+- [Laboratório 2](laboratorios/lab_02)
 ## Arquivos de simulação
 - [Série de Fourrier](fourrier.m)
