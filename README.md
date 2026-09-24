@@ -7,3 +7,4 @@
 > Repositório com as atividades práticas da disciplina de Sinais e Sistemas.
 
 ## Arquivos de simulação
+- [Série de Fourrier](fourrier.m)
